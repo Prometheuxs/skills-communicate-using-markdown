@@ -1,4 +1,3 @@
-``` Python3
-x = "Hello World"
-print(x)
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
